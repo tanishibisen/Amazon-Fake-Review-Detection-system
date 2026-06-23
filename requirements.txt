@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+catboost
+nltk
+fastapi
+uvicorn
+pydantic
+joblib
+spacy
+tensorflow
+textstat
