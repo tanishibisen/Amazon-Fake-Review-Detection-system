@@ -1,7 +1,6 @@
 # Identification of Fake Reviews
 
-[![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 A machine learning and deep learning pipeline for detecting fake online reviews (spam reviews) on Amazon and Yelp datasets. This project combines Natural Language Processing (NLP) for text analysis with behavioral analytics for robust classification.
 
